@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Site configuration
 # 1. Files excluded from Jekyll builds
 # 2. Installed Gems
@@ -61,3 +62,6 @@ title: "Garth" # Site name or title
 logo: "https://www.gravatar.com/avatar/6c0377abcf4da91cdd35dea4554b2a4c?s=500" # Site logo
 description: "A stupidly simple theme for Jekyll, using the official Jekyll theme implementation" # Site description and default description
 url: "https://garth.darn.es" # Site url
+=======
+theme: jekyll-theme-modernist
+>>>>>>> 98218bfc5d70889bd68230d8978211f4a21ee59d

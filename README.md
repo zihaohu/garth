@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # [Garth](https://garth.darn.es/)
 [![Gem Version](https://badge.fury.io/rb/garth-jekyll-theme.svg)](https://badge.fury.io/rb/garth-jekyll-theme)
 
@@ -48,3 +49,6 @@ There are 3 layouts; `page`, `post` and `home` (home acts as the font page blog)
 - Thanks to [Flexbox mixin](https://github.com/mastastealth/sass-flex-mixin) by [Brian Franco](https://twitter.com/brianfranco)
 - Thanks to [Normalize](https://necolas.github.io/normalize.css/) by [Nicolas Gallagher](https://twitter.com/necolas) and [Jonathan Neal](https://twitter.com/jon_neal).
 - Thanks to [pygments-css](http://richleland.github.io/pygments-css/) for the autumn syntax highlighting, by [Rich Leland](https://twitter.com/richleland)
+=======
+# zihaohu.github.io
+>>>>>>> 98218bfc5d70889bd68230d8978211f4a21ee59d
